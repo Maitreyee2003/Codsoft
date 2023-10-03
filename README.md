@@ -1,2 +1,2 @@
 # Codsoft
-Java programming internship by codsoft
+Java programming internship at codsoft
